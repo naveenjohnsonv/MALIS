@@ -1,0 +1,1 @@
+For running the experiment.ipynb notebook, it is necessary to have the perceptron.py in the same directory as the notebook. It is also necessary to have Python libraries Numpy and SciKit-Learn installed.

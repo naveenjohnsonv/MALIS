@@ -1,0 +1,1 @@
+For running the knn.py file, it is necessary to have the utils.py in the same path. It is also necessary to have Python libraries Numpy, Pandas, SciPy and SciKit-Learn installed.
